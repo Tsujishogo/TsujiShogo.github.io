@@ -1,0 +1,26 @@
+BreakableOBJ.cs            破壊可能object用
+
+BulletManager.cs　         敵モンスターの弾幕管理用
+
+Enemy.cs　		              敵モンスターHP、行動管理用
+
+EnemyBullet.cs　           敵モンスターの弾用
+
+Homing.cs　		            自キャラのホーミング弾　
+
+IApplicableDamage.cs　     被ダメ管理インターフェイス
+
+MenuAudioManager.cs　      タイトル画面のSE,BGM管理
+
+ResultManager.cs　         リザルト画面管理
+
+SceneManager.cs　          シーン変更、スコア保存管理。
+
+Shooter.cs　		            自キャラの弾発射管理
+
+ThirdPersonController.cs   自キャラの操作管理。Unityのサンプルscriptを改良して使っています。
+　　　　　　　　　　　　　　日本語コメントを入れている部分が自分自身で書いた部分です
+
+UIManager.cs　　           タイトルのUI管理
+
+
