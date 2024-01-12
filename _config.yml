@@ -1,6 +1,6 @@
 theme: jekyll-theme-dinky
 lang: ja-JP
-title: title # TODO
-description: description # TODO
+title: about # TODO
+description: Experience # TODO
 plugins:
   - jekyll-sitemap
