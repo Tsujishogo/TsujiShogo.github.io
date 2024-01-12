@@ -45,11 +45,11 @@
 - 開発期間: 2023年3月 - 2023年10月
 - 使用技術: Unity2021.3.19f1, C#
 - プラットフォーム: SteamVR
-- 利用ライブラリ: DOTween
-                 UniRx
-                 UniTask
-                 FinalIK
-                 XR Interaction ToolKit
+- 利用ライブラリ: DOTween  
+                 UniRx  
+                 UniTask  
+                 FinalIK  
+                 XR Interaction ToolKit  
 
 ### 概要
 
