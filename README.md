@@ -36,7 +36,7 @@
 ### リンク
 
 - [ソースコード](https://github.com/Tsujishogo/TsujiShogo.github.io/tree/main/BulletCurtain/%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89)
-- [実行ファイル](https://github.com/Tsujishogo/TsujiShogo.github.io/tree/main/BulletCurtain/%E5%AE%9F%E8%A1%8C%E3%83%87%E3%83%BC%E3%82%BF)
+- [実行ファイル](https://drive.google.com/file/d/17nHBsSGkgr1-qfchdQ-69Alsjlhh2zen/view?usp=drive_link)
 
 ## VRゲーム作品
 
