@@ -1,0 +1,36 @@
+AudioEffecter.cs		BGM、SE管理、エフェクト処理クラス
+
+Bullet.cs			敵の弾の挙動クラス
+
+DelayAction.cs			遅延処理用静的クラス
+
+Enemy.cs			敵の挙動処理クラス
+
+EnemyBulletPool.cs		敵の発射する弾をプール管理するクラス
+
+EnemyManager.cs			敵object全体管理kルアス
+
+Fader.cs			シーン推移時のフェード処理クラス
+
+FingerMover.cs			コントローラーの入力に応じてプレイヤーモデルの手を動かすクラス
+
+GuideLine.cs			ガイドライン生成クラス
+
+IApplicableDamage.cs		被ダメージ管理インターフェイス
+
+NPCMover.cs			NPC挙動管理クラス
+
+ObjectPoolMonoBehabiour.cs	汎用オブジェクトプールジェネリッククラス
+
+RecordManager.cs		リプレイ処理管理クラス
+
+SceneChanger.cs			シーン推移クラス
+
+StageManager.cs　　　　　　　　ステージ全体の処理管理クラス
+
+TimeManager.cs			スロー処理クラス
+
+TitleUIView.cs			タイトル画面のUI管理クラス
+
+
+
