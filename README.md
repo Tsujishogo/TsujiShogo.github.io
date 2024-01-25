@@ -45,8 +45,8 @@
 - 開発期間: 2023年3月 - 2023年10月
 - 使用技術: Unity2021.3.19f1, C#
 - プラットフォーム: SteamVR
-- 利用ライブラリ: 
-     DOTween  
+- 利用ライブラリ:         
+DOTween  
                          UniRx  
                          UniTask  
                          FinalIK  
@@ -69,7 +69,7 @@ Unityのバージョン起因のバグの特定に時間がかかってしまっ
 
 ### リンク
 
-
+- [ソースコード](https://github.com/Tsujishogo/TsujiShogo.github.io/tree/main/TenkoVR/Script)
 
 
 ## その他制作物
