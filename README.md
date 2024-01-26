@@ -66,7 +66,8 @@ Unityのバージョン起因のバグの特定に時間がかかってしまっ
 制作期間が長くなってしまった。
 
 -プレイ動画 (YouTubeに飛びます)
-[![プレイ動画](https://youtu.be/j6GC2uXJEzg)
+[![プレイ動画](https://github.com/Tsujishogo/TsujiShogo.github.io/assets/77870800/4518001d-f1e5-41f4-968a-7c744dcbc7c3)](https://youtu.be/j6GC2uXJEzg)
+
 
 ### リンク
 
