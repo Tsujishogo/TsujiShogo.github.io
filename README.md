@@ -50,7 +50,8 @@ DOTween
                          UniRx  
                          UniTask  
                          FinalIK  
-                         XR Interaction ToolKit  
+                         XR Interaction ToolKit
+  DynamicBone
 
 ### 概要
 
